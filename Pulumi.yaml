@@ -1,0 +1,3 @@
+name: s3-invalidtag-repro
+runtime: nodejs
+description: Minimal repro for a misleading InvalidTag error on aws.s3.Bucket.CreateBucket

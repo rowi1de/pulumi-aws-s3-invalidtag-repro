@@ -1,0 +1,11 @@
+{
+    "name": "s3-invalidtag-repro",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^20"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^7.40.0",
+        "@pulumi/pulumi": "^3.256.0"
+    }
+}
